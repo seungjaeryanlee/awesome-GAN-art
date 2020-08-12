@@ -5,7 +5,8 @@ This is a curated collection of artworks generated with Generative Adversarial N
 
 - [Artbreeder](https://www.artbreeder.com/): "A web-based tool that allows anybody to create [art]"
 - [Making Anime Faces With StyleGAN](https://www.gwern.net/Faces): "A tutorial explaining how to train and generate high-quality anime faces with StyleGAN 1/2 neural networks, and tips/scripts for effective StyleGAN use."
-- [ThisEmoteDoesNotExist](https://blog.twitch.tv/en/2019/07/24/this-emote-does-not-exist-training-a-gan-for-twitch-emotes-a742b6354b73/): Training a GAN for Twitch Emotes
+- [ThisEmoteDoesNotExist](https://blog.twitch.tv/en/2019/07/24/this-emote-does-not-exist-training-a-gan-for-twitch-emotes-a742b6354b73/): "Training a GAN for Twitch Emotes"
+- [Waifu Labs](https://waifulabs.com/): "In less than 5 minutes, the artist learns your preferences to make the perfect waifu just for you."
 
 ## Datasets
 
